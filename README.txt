@@ -1,0 +1,3 @@
+The following is a Python version 3.5 script to combine multiple .PDF files into one. It requires that the PyPDF2 module be installed.
+
+To use the script, simply put all of the .PDF files you want to combine in the folder named 'pdfs'. The files will be combined in alphabetical order based on their filename (i.e. name the file you want first 1, then the file you want to follow that one 2, and so on), and run the Python script named 'Run-this'. After the script has completed, you should have a .PDF file named 'COMBINED_PDF' in the same directory as the 'Run-this' script.
